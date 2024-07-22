@@ -3,7 +3,7 @@
 Este projeto consiste em uma aplicação desenvolvida em Flutter para controle de tarefas/afazeres do dia a dia. 
 
 ## Demonstração
-![gif_funcionalidade](assets/todo_list_gif.gif)
+![gif_funcionalidade](lib/assets/todo_list_gif.gif)
 
 ## APIs e Dependências Utilizadas
 - **cupertino_icons**: Pacote contendo os ícones de estilo iOS da Apple.
